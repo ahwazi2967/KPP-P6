@@ -1,0 +1,3 @@
+/home/ahwazi/P6_SImulator/build/CMakeFiles/communication.dir
+/home/ahwazi/P6_SImulator/build/CMakeFiles/edit_cache.dir
+/home/ahwazi/P6_SImulator/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/communication.dir/link.d CMakeFiles/communication.dir/main.cpp.o CMakeFiles/communication.dir/serial.cpp.o CMakeFiles/communication.dir/interpolation.cpp.o -o communication   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lusbp-1 -ludev
